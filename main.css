@@ -5,9 +5,19 @@ h1{
 div{
     background-color: aqua;
     text-align: justify;
-    width: 700px;
+    width: 500px;
     height: 70%;
 }
 h3{
     text-align: center;
+}
+.next{
+    align-items: center;
+    color: Red;
+    background-color: black;
+    width:500px;
+    height:50%;
+    text-align: justify;
+    padding-left: 50px;
+    margin-left: 400px;
 }
