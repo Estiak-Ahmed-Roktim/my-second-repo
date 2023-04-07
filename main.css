@@ -30,3 +30,7 @@ h4{
     color: yellow;
     font-family: cursive;
 }
+.img-div{
+    width: 500px;
+    border: 20px aqua;
+}
